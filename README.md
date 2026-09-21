@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**2** solved · 2 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Top Quartile Reward Score Filter](https://www.deep-ml.com/problems/778) | easy | 2026-09-21 | [solution](problems/0778-top-quartile-reward-score-filter) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-09-16 | [solution](problems/0276-implement-roc-curve-calculation) |
 
 ---
