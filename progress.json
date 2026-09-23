@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:40:18.333Z",
+  "generated_at": "2026-09-23T03:32:23.517Z",
   "items": {
     "problem:276": {
       "kind": "problem",
@@ -39,6 +39,19 @@
       "last_pushed_at": "2026-09-22T03:34:38.057Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:1372": {
+      "kind": "problem",
+      "id": "1372",
+      "title": "Smooth L1 Loss with a Beta Parameter",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1372",
+      "path": "problems/1372-smooth-l1-loss-with-a-beta-parameter",
+      "first_solved_at": "2026-09-23T03:26:42.333Z",
+      "last_pushed_at": "2026-09-23T03:26:42.333Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
