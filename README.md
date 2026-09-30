@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-09-29 | [solution](problems/1151-first-n-fibonacci-numbers) |
+| [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-09-30 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-22 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Smooth L1 Loss with a Beta Parameter](https://www.deep-ml.com/problems/1372) | easy | 2026-09-23 | [solution](problems/1372-smooth-l1-loss-with-a-beta-parameter) |
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-09-24 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
