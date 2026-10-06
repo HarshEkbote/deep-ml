@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 10 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-06 | [solution](problems/1232-conv2d-output-shape) |
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-09-29 | [solution](problems/1151-first-n-fibonacci-numbers) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-09-30 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-22 | [solution](problems/1022-l2-normalization-along-an-axis) |

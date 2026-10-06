@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:09:05.778Z",
+  "generated_at": "2026-10-06T04:12:51.786Z",
   "items": {
     "problem:276": {
       "kind": "problem",
@@ -130,6 +130,19 @@
       "last_pushed_at": "2026-10-06T04:02:59.865Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1232": {
+      "kind": "problem",
+      "id": "1232",
+      "title": "Conv2d Output Shape",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1232",
+      "path": "problems/1232-conv2d-output-shape",
+      "first_solved_at": "2026-10-06T04:06:45.797Z",
+      "last_pushed_at": "2026-10-06T04:06:45.797Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
