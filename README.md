@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 13 problems · 0 labs · 4 math
+**18** solved · 14 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-10-13 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-10-13 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Top Quartile Reward Score Filter](https://www.deep-ml.com/problems/778) | easy | 2026-09-21 | [solution](problems/0778-top-quartile-reward-score-filter) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-13 | [solution](problems/0121-vector-element-wise-sum) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-09-16 | [solution](problems/0276-implement-roc-curve-calculation) |
 
 ## Math
