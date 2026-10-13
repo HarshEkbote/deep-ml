@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T04:32:58.437Z",
+  "generated_at": "2026-10-13T04:44:39.579Z",
   "items": {
     "problem:276": {
       "kind": "problem",
@@ -226,6 +226,19 @@
       "last_pushed_at": "2026-10-13T04:26:40.370Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:1278": {
+      "kind": "problem",
+      "id": "1278",
+      "title": "Tensor Puzzle: Reverse a Vector",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1278",
+      "path": "problems/1278-tensor-puzzle-reverse-a-vector",
+      "first_solved_at": "2026-10-13T04:38:21.091Z",
+      "last_pushed_at": "2026-10-13T04:38:21.091Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
